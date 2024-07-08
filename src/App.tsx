@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { QueryClient, QueryClientProvider } from "react-query";
+import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { PokeCard } from "./components/PokeCard";
 import { PokeList } from "./components/PokeList";
 
