@@ -31,3 +31,4 @@ For simplicity, errors are ignored
 
 https://tanstack.com/query/latest/docs/framework/react/overview
 https://tanstack.com/query/latest/docs/framework/react/devtools
+https://react.dev/learn/reusing-logic-with-custom-hooks
