@@ -4,8 +4,8 @@
 
 One of the most common patterns for SPA FE is querying. Custom hooks are a standard method for SOLID principles
 
-Components - responsible for displaying data
-Hooks - responsible for retrieving / transforming data
+- Components - responsible for displaying data
+- Hooks - responsible for retrieving / transforming data
 
 ### Example
 
@@ -13,7 +13,7 @@ This example shows a list of Pokemon in a top banner. The selected Pokemon is sh
 
 Quickly click different Pokemon to see the caching behavior
 
-For simplicity, errors are ignored
+For simplicity, errors are ignored.
 
 ### Pros
 
@@ -29,6 +29,6 @@ For simplicity, errors are ignored
 
 ### Refs
 
-https://tanstack.com/query/latest/docs/framework/react/overview
-https://tanstack.com/query/latest/docs/framework/react/devtools
-https://react.dev/learn/reusing-logic-with-custom-hooks
+- https://tanstack.com/query/latest/docs/framework/react/overview
+- https://tanstack.com/query/latest/docs/framework/react/devtools
+- https://react.dev/learn/reusing-logic-with-custom-hooks
